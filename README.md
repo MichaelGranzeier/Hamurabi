@@ -1,2 +1,2 @@
 # Hamurabi
-A simple text based.
+A simple text based game.
